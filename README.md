@@ -1,8 +1,3 @@
-# An-Najah	National	University
-
-# Computer	Engineering	Department
-
-## Computer	Architecture II HW	# 3	
 
 ## Cache	Optimizations
 
